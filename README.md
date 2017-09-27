@@ -7,10 +7,10 @@ Powered mainly by Realm, RxSwift, and SteviaLayout.
 
 ## Screenshots
 
-![Home](https://raw.githubusercontent.com/aunnnn/FindBundit-iOS/master/appstore-screenshots/findbundit1.jpg)
+![Home](https://raw.githubusercontent.com/aunnnn/FindBundit-iOS/master/appstore-screenshots/findbundit1.jpg | width=280)
 
-![Find a friend](https://raw.githubusercontent.com/aunnnn/FindBundit-iOS/master/appstore-screenshots/findbundit2.jpg)
+![Find a friend](https://raw.githubusercontent.com/aunnnn/FindBundit-iOS/master/appstore-screenshots/findbundit2.jpg | width=280)
 
-![Call, locate, or display route](https://raw.githubusercontent.com/aunnnn/FindBundit-iOS/master/appstore-screenshots/findbundit4.jpg)
+![Call, locate, or display route](https://raw.githubusercontent.com/aunnnn/FindBundit-iOS/master/appstore-screenshots/findbundit4.jpg | width=280)
 
-![Call](https://raw.githubusercontent.com/aunnnn/FindBundit-iOS/master/appstore-screenshots/findbundit3.jpg)
+![Call](https://raw.githubusercontent.com/aunnnn/FindBundit-iOS/master/appstore-screenshots/findbundit3.jpg | width=280)
