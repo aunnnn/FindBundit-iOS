@@ -1,0 +1,121 @@
+PODS:
+  - Alamofire (3.5.1)
+  - AlamofireNetworkActivityIndicator (1.1.0):
+    - Alamofire (~> 3.3)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - Crashlytics (3.8.3):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.10)
+  - FacebookCore (0.1.1):
+    - Bolts (~> 1.8)
+    - FBSDKCoreKit (~> 4.14)
+  - FacebookLogin (0.1.1):
+    - Bolts (~> 1.8)
+    - FacebookCore
+    - FBSDKCoreKit (~> 4.14)
+    - FBSDKLoginKit (~> 4.14)
+  - FBSDKCoreKit (4.16.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.16.0):
+    - FBSDKCoreKit
+  - IHKeyboardAvoiding (2.6)
+  - KLCPopup (1.0)
+  - MBProgressHUD (1.0.0)
+  - ModelMapper (2.1.0)
+  - Moya (7.0.0):
+    - Moya/Core (= 7.0.0)
+  - Moya-ModelMapper/Core (3.0.0):
+    - ModelMapper (~> 2.0)
+    - Moya (~> 7.0)
+  - Moya-ModelMapper/RxSwift (3.0.0):
+    - Moya-ModelMapper/Core
+    - Moya/RxSwift (~> 7.0)
+    - RxSwift (~> 2.3)
+  - Moya/Core (7.0.0):
+    - Alamofire (~> 3.0)
+    - Result (~> 2.0)
+  - Moya/RxSwift (7.0.0):
+    - Moya/Core
+    - RxSwift (~> 2.0)
+  - Realm (1.0.2):
+    - Realm/Headers (= 1.0.2)
+  - Realm/Headers (1.0.2)
+  - RealmSwift (1.0.2):
+    - Realm (= 1.0.2)
+  - Result (2.1.3)
+  - RxCocoa (2.5.0):
+    - RxSwift (~> 2.5)
+  - RxRealm (0.1.8):
+    - RealmSwift (~> 1.0)
+    - RxSwift
+  - RxSwift (2.5.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SteviaLayout (2.3.0)
+  - thenPromise (1.4.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - AlamofireNetworkActivityIndicator
+  - ChameleonFramework/Swift
+  - Crashlytics
+  - Fabric
+  - FacebookCore (= 0.1.1)
+  - FacebookLogin (= 0.1.1)
+  - IHKeyboardAvoiding
+  - KLCPopup
+  - MBProgressHUD
+  - Moya-ModelMapper/RxSwift
+  - Moya/RxSwift (= 7.0.0)
+  - Realm (~> 1.0.0)
+  - RealmSwift
+  - RxCocoa (= 2.5.0)
+  - RxRealm
+  - RxSwift (= 2.5.0)
+  - SDWebImage
+  - SteviaLayout (from `./FindBundit/Externals/Stevia-2.3.0`)
+  - thenPromise (= 1.4.2)
+
+EXTERNAL SOURCES:
+  SteviaLayout:
+    :path: "./FindBundit/Externals/Stevia-2.3.0"
+
+SPEC CHECKSUMS:
+  Alamofire: 0dfba1184a543e2aa160f4e39cac4e8aba48d223
+  AlamofireNetworkActivityIndicator: 36340ebf8d70241b2ebadc3dea38e8fbb95f5127
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Crashlytics: 2b6dbe138a42395577cfa73dfa1aa7248cadf39e
+  Fabric: c73f371ee543e3f0b80608f2674750e4910d1669
+  FacebookCore: 14f27add6888c27470d42a100374e6361f4e0f79
+  FacebookLogin: 748f4e621e874da3e0bf63bccf6fd1542c786a1b
+  FBSDKCoreKit: 7a6baaed4a2b2a244ba253346713bdbc74df135b
+  FBSDKLoginKit: 9a514a55a7d05190f64d4ef09502737588b5b561
+  IHKeyboardAvoiding: d2541ee56dad83e160cd9aed0468c52247af6f49
+  KLCPopup: 76c5a19227977f1e53d85236f9ef42257c168d98
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  ModelMapper: e599744bc1e869bdb87b453b7ce16981028b8513
+  Moya: f004b82418fb8165ee1fc9f86190db4b3611fda9
+  Moya-ModelMapper: b4ffff5dfd8cdd338f5a586090eae82166df5ac4
+  Realm: 9d5c46a4d7d27958530a8dfc58f63a99e5c2cba3
+  RealmSwift: 82f3ac5e24530143dddfde2033acc0d308f27d96
+  Result: 18e1a7597fbcca5923c565b40a25a98afafdee02
+  RxCocoa: e1b1562e57a554d0fb2aabf9d71b637f177257c7
+  RxRealm: e1620fd20f5dc0d14c10e92bcc6c2c70bfb03ebe
+  RxSwift: 402b41a50e922a0368fc14cb3bc9f4427920e8ae
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SteviaLayout: 0fa7c07e1372b708c03343a5bb9557b859b44cee
+  thenPromise: fff3776b4c60b4aa0fb55001d115cc2ebbe0596e
+
+PODFILE CHECKSUM: 8feacd1c424e1bdc34b05ec4eae9d4bab1d8b6e3
+
+COCOAPODS: 1.1.1
